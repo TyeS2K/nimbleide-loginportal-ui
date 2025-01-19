@@ -100,7 +100,7 @@ var globals = {
 	mockFS: false,
 	remote: false,
 	revision: '1',
-	appVersion: '1.0.1.12',
+	appVersion: '1.0.1.14',
 	silentErrors: true,
 	lockOrientation: true,
 	jQuery: 0,
