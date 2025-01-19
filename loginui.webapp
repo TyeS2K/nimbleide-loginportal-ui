@@ -1,0 +1,57 @@
+
+
+[Build]
+appGUID=6d4bb3ae-5a95
+
+[Settings]
+BuildTarget=web
+Startup=loginmain
+Dialogs=loginconfirm,loginforgot,loginlicense,loginmain,loginmsg,loginpolicy,loginregister,loginreset,loginthankyou
+#Workspaces=1
+underscoreJS=
+Width=360
+jQuery=
+ControlStyles=
+FluidDesktop=true
+DisableDesktop=true
+LiveBackground=
+LoadExtended=
+LoadStandard =true
+BuildMobile=
+Widget=
+LockOrientation=true
+BuildMobileSite=true
+MobileZoom=true
+Compress=
+PostBox=
+MVC=true
+Instance=
+Theme=1
+
+[Publish]
+Controls=label2,label1,frmlogin,picturex2,picturex1,label8,label5,lblogin,username,lbpassword,password,lbregister,lbforgot,lbreset,icncancel,label7,btnlogin,custom1
+Content=loginconfirm label2/label;loginconfirm label1/label;loginconfirm frmlogin/frame;loginconfirm picturex2/graphicx;loginconfirm picturex1/graphicx;loginconfirm infotitle/label;loginconfirm infohead/label;loginconfirm info/label;loginconfirm icncancel/icon;loginconfirm label7/label;loginconfirm btnyes/button;loginconfirm btnno/button;loginforgot label2/label;loginforgot label1/label;loginforgot frmlogin/frame;loginforgot picturex2/graphicx;loginforgot picturex1/graphicx;loginforgot label8/label;loginforgot label5/label;loginforgot lbusername/label;loginforgot user/textbox;loginforgot lbor/label;loginforgot lbemail/label;loginforgot icncancel/icon;loginforgot email/textbox;loginforgot label7/label;loginforgot btnreset/button;loginforgot custom1/custom;loginlicense label1/label;loginlicense licpage/frame;loginlicense infotitle/label;loginlicense info/label;loginlicense btnagree/button;loginlicense icnback/icon;loginmain label2/label;loginmain label1/label;loginmain frmlogin/frame;loginmain picturex2/graphicx;loginmain picturex1/graphicx;loginmain label8/label;loginmain label5/label;loginmain lblogin/label;loginmain username/textbox;loginmain lbpassword/label;loginmain password/textbox;loginmain lbregister/label;loginmain lbforgot/label;loginmain lbreset/label;loginmain icncancel/icon;loginmain label7/label;loginmain btnlogin/button;loginmain custom1/custom;loginmsg label2/label;loginmsg label1/label;loginmsg frmlogin/frame;loginmsg picturex2/graphicx;loginmsg picturex1/graphicx;loginmsg infotitle/label;loginmsg infohead/label;loginmsg info/label;loginmsg icncancel/icon;loginmsg label7/label;loginmsg btnok/button;loginpolicy label1/label;loginpolicy prvpage/frame;loginpolicy infotitle/label;loginpolicy info/label;loginpolicy btnagree/button;loginpolicy icnback/icon;loginregister label2/label;loginregister label1/label;loginregister frmlogin/frame;loginregister picturex2/graphicx;loginregister picturex1/graphicx;loginregister label8/label;loginregister label5/label;loginregister lbusername/label;loginregister username/textbox;loginregister lbemail/label;loginregister email/textbox;loginregister lbpassword/label;loginregister password/textbox;loginregister lbconfirm/label;loginregister confirm/textbox;loginregister icncancel/icon;loginregister license/label;loginregister label7/label;loginregister btnregister/button;loginreset label2/label;loginreset label1/label;loginreset frmlogin/frame;loginreset picturex2/graphicx;loginreset picturex1/graphicx;loginreset label8/label;loginreset label5/label;loginreset lbauthcode/label;loginreset code/textbox;loginreset lbnewpassword/label;loginreset password/textbox;loginreset lbconfirm/label;loginreset confirm/textbox;loginreset icncancel/icon;loginreset label7/label;loginreset btnupdate/button;loginthankyou label1/label;loginthankyou frmlogin/frame;loginthankyou infotitle/label;loginthankyou info/label;loginthankyou btnagree/button;
+AddnlPlugins=<platform name="android">;  <config-file target="AndroidManifest.xml" mode="merge" parent="/manifest">;    <uses-permission android:name="android.permission.INTERNET" />;    <uses-permission android:name="android.permission.NETWORK_ACCESS" />;    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />;    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />;    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />;    <uses-permission android:name="android.permission.VIBRATE" />;  </config-file>;</platform>;
+MobilePlugins=<plugin name="cordova-plugin-android-permissions" source="npm" />;<plugin name="cordova-plugin-battery-status" source="npm" />;<plugin name="cordova-plugin-media" source="npm" />;<plugin name="cordova-plugin-device" source="npm" />;<plugin name="cordova-plugin-screen-orientation" source="npm" />;<plugin name="cordova-plugin-geolocation" source="npm" />;<plugin name="cordova-plugin-globalization" source="npm" />;<plugin name="cordova-plugin-vibration" source="npm" />;<plugin name="cordova-plugin-whitelist" source="npm" />;<plugin name="cordova-plugin-network-information" source="npm" />;<plugin name="cordova-plugin-file" source="npm" />;
+Permissions=
+SelectedPlugins=["nimble-base","cordova-plugin-android-permissions","cordova-plugin-battery-status","cordova-plugin-media","cordova-plugin-device","cordova-plugin-screen-orientation","cordova-plugin-geolocation","cordova-plugin-globalization","cordova-plugin-vibration","cordova-plugin-whitelist","cordova-plugin-network-information","cordova-plugin-file"]
+OrientationIndex=
+ElectronVersion=3.1.0
+iOSVersion=5.1.1
+DroidVersion=9.1.0
+Libraries=(icon),(validate)
+AutoPublish=
+Root=
+PageDescription=
+ApplicationName=
+PageKeyWords=
+PageAuthor=
+PageTitle=
+Tooltip=
+Caption=
+Icon=
+
+[Electron]
+OpenSource=true
+DevTools=
+SizeIndex=5

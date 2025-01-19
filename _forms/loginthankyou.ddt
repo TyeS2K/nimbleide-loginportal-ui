@@ -1,0 +1,293 @@
+loginthankyou,,SURFACE,New Surface|50|155|709|503|268437524|65568
+    loginthankyou,,version,5.0
+    loginthankyou,,loadlibs,
+    loginthankyou,,groupid,9999999999
+    loginthankyou,,groupby,0
+    loginthankyou,,runpos,0|0
+    loginthankyou,,DOCK,FFFF
+    loginthankyou,,PARENT,
+    loginthankyou,,MARGINS,
+    loginthankyou,,AUTOSIZE,false
+    loginthankyou,,JSON,{}
+    loginthankyou,,TEXT,New Surface
+    loginthankyou,,TOOLTIP,
+    loginthankyou,,ENABLED,true
+    loginthankyou,,VISIBLE,true
+    loginthankyou,,FORECOLOR,&heeeeee
+    loginthankyou,,BACKCOLOR,transparent
+    loginthankyou,,ICON,
+    loginthankyou,,FONTNAME,inherit
+    loginthankyou,,FONTSIZE,
+    loginthankyou,,FONTBOLD,false
+    loginthankyou,,FONTITALIC,false
+    loginthankyou,,FONTUNDERLINE,false
+    loginthankyou,,FONTSTRIKETHRU,false
+    loginthankyou,,MENUBAR,
+    loginthankyou,,TOOLBAR,
+    loginthankyou,,STATUSBAR,
+    loginthankyou,,SAVESTATE,false
+    loginthankyou,,drag.x,
+    loginthankyou,,drag.y,
+    loginthankyou,,xdragrange,
+    loginthankyou,,ydragrange,
+    loginthankyou,,size.x,
+    loginthankyou,,size.y,
+    loginthankyou,,negadj,
+    loginthankyou,,posadj,
+    loginthankyou,,TAG,~autosize<COLN> false<LF>bind<COLN> false<LF>category<COLN> <LF>class<COLN> <LF>clipmenu<COLN> true<LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>flattenonpull<COLN> true<LF>hotkey<COLN> <LF>ignorezorder<COLN> false<LF>output<COLN> normal<LF>record<COLN> <LF>shadow<COLN> false<LF>sizeable<COLN> false<LF>tag<COLN> <LF>theme<COLN> nimble-form<LF>toggleonflip<COLN> true<LF>useastheme<COLN> false<LF>watch<COLN> false<LF>lock-height<COLN> <LF>lock-width<COLN> <LF>body.lock-height<COLN> <LF>body.version<COLN> v5.0~color<COLN> #eeeeee<LF>cursor<COLN> <LF>display<COLN> <LF>opacity<COLN> <LF>background-color<COLN> transparent<LF>font-family<COLN> inherit<LF>font-size<COLN> <LF>font-style<COLN> normal<LF>font-weight<COLN> normal<LF>pointer-events<COLN> auto<LF>text-decoration<COLN> <LF>z-index<COLN> 2<LF>body.background-color<COLN> TRANSPARENT<LF>body.box-sizing<COLN> border-box<LF>body.color<COLN> #eeeeee<LF>body.text-align<COLN> center<LF>body.vertical-align<COLN>
+    loginthankyou,,events,menu<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousedown<COLN> <CR>mousewheel<COLN> <CR>load<COLN> <CR>hide<COLN> <CR>viewchange<COLN> <CR>adjustlayout<COLN> <CR>refresh<COLN> <CR>resize<COLN> <CR>unload<COLN> <CR>queryunload<COLN> <CR>activate<COLN> login.thankyou.maximize<CR>click<COLN> <CR>longpress<COLN> <CR>mouseenter<COLN> <CR>dblclick<COLN> <CR>gotfocus<COLN> <CR>lostfocus<COLN> <CR>dragstart<COLN> <CR>dragging<COLN> <CR>dragover<COLN> <CR>drop<COLN> <CR>enterkey<COLN> <CR>keydown<COLN> <CR>keypress<COLN> <CR>keyup<COLN> <CR>enabled<COLN> <CR>disabled<COLN> <CR>widgetloaded<COLN> <CR>widgetunloading<COLN> <CR>minimize<COLN> <CR>maximize<COLN> <CR>fullscreen<COLN> <CR>restore<COLN> <CR>onpush<COLN> <CR>afterpush<COLN> <CR>onpull<COLN> <CR>afterpull<COLN> <CR>touchstart<COLN> <CR>touchmove<COLN> <CR>touchend<COLN>
+    loginthankyou,,extend,{}
+    loginthankyou,,GROUPIDS,[0100]
+    loginthankyou,,WSTYLES,268437524
+    loginthankyou,,WSTYLESEX,65568
+    loginthankyou,,WIDTH,709
+    loginthankyou,,HEIGHT,503
+    loginthankyou,,EDITPOS,50|155
+loginthankyou,label1,TARGET,~
+loginthankyou,label1,PARENTGROUP,~
+loginthankyou,label1,load,label||0|0|105|1|1342377216|32
+    loginthankyou,label1,group,false
+    loginthankyou,label1,groupid,0
+    loginthankyou,label1,groupby,9999999999
+    loginthankyou,label1,widgetlock,false
+    loginthankyou,label1,iswidget,false
+    loginthankyou,label1,iscollection,false
+    loginthankyou,label1,collectname,
+    loginthankyou,label1,widgetname,
+    loginthankyou,label1,placeholder,
+    loginthankyou,label1,addedby,
+    loginthankyou,label1,DOCK,FFFF
+    loginthankyou,label1,PICTURE,media/img_missing.png
+    loginthankyou,label1,SIZE,105<PIP>1
+    loginthankyou,label1,JSON,{}
+    loginthankyou,label1,TEXT, 
+    loginthankyou,label1,TOOLTIP,
+    loginthankyou,label1,ENABLED,true
+    loginthankyou,label1,VISIBLE,true
+    loginthankyou,label1,ZORDER,0
+    loginthankyou,label1,FORECOLOR,&h000000
+    loginthankyou,label1,BACKCOLOR,transparent
+    loginthankyou,label1,FONTNAME,verdana<COMMA> geneva<COMMA> sans-serif
+    loginthankyou,label1,FONTSIZE,14px
+    loginthankyou,label1,FONTBOLD,false
+    loginthankyou,label1,FONTITALIC,false
+    loginthankyou,label1,FONTUNDERLINE,false
+    loginthankyou,label1,FONTSTRIKETHRU,false
+    loginthankyou,label1,INFO,
+    loginthankyou,label1,PAGECOUNT,0
+    loginthankyou,label1,DATABIND,
+    loginthankyou,label1,BINDMAPPING,
+    loginthankyou,label1,drag.x,1
+    loginthankyou,label1,drag.y,1
+    loginthankyou,label1,xdragrange,-1<SEMI> -1
+    loginthankyou,label1,ydragrange,-1<SEMI> -1
+    loginthankyou,label1,size.x,1
+    loginthankyou,label1,size.y,1
+    loginthankyou,label1,negadj,
+    loginthankyou,label1,posadj,
+    loginthankyou,label1,child,false
+    loginthankyou,label1,displaymode,block
+    loginthankyou,label1,TAG,~bind<COLN> false<LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>record<COLN> <LF>scaletype<COLN> false<LF>sizeable<COLN> false<LF>tag<COLN> <LF>theme<COLN> nimble-label<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> !!!!<LF>lock-height<COLN> <LF>lock-width<COLN> <LF>scale-cpl<COLN> 25<LF>~color<COLN> #000000<LF>cursor<COLN> <LF>display<COLN> table<LF>float<COLN> <LF>opacity<COLN> <LF>padding<COLN> 0px 0px<LF>visibility<COLN> visible<LF>background-color<COLN> transparent<LF>border-style<COLN> solid<LF>border-width<COLN> 0px<LF>font-family<COLN> verdana<COMMA> geneva<COMMA> sans-serif<LF>font-size<COLN> 14px<LF>font-style<COLN> normal<LF>font-weight<COLN> normal<LF>pointer-events<COLN> inherit<LF>text-align<COLN> left<LF>text-decoration<COLN> <LF>vertical-align<COLN> <LF>caption.display<COLN> table-cell<LF>caption.position<COLN> relative<LF>caption.vertical-align<COLN> middle<LF>caption.width<COLN> auto<LF>div.display<COLN> block<LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative
+    loginthankyou,label1,LOCK,false
+    loginthankyou,label1,events,
+    loginthankyou,label1,extend,{}
+loginthankyou,label1,REFRESH, 
+loginthankyou,frmlogin,TARGET,~
+loginthankyou,frmlogin,PARENTGROUP,~
+loginthankyou,frmlogin,load,frame||74|91|546|350|1342177287|544
+    loginthankyou,frmlogin,group,true
+    loginthankyou,frmlogin,groupid,0100
+    loginthankyou,frmlogin,groupby,9999999999
+    loginthankyou,frmlogin,widgetlock,false
+    loginthankyou,frmlogin,iswidget,false
+    loginthankyou,frmlogin,iscollection,false
+    loginthankyou,frmlogin,collectname,
+    loginthankyou,frmlogin,widgetname,
+    loginthankyou,frmlogin,placeholder,
+    loginthankyou,frmlogin,addedby,
+    loginthankyou,frmlogin,DOCK,FFFF
+    loginthankyou,frmlogin,PICTURE,media/img_missing.png
+    loginthankyou,frmlogin,SIZE,546<PIP>350
+    loginthankyou,frmlogin,JSON,{}
+    loginthankyou,frmlogin,TEXT,
+    loginthankyou,frmlogin,TOOLTIP,
+    loginthankyou,frmlogin,ENABLED,true
+    loginthankyou,frmlogin,VISIBLE,true
+    loginthankyou,frmlogin,ZORDER,0
+    loginthankyou,frmlogin,FORECOLOR,&h000000
+    loginthankyou,frmlogin,BACKCOLOR,&hffffff
+    loginthankyou,frmlogin,FONTNAME,verdana<COMMA> geneva<COMMA> sans-serif
+    loginthankyou,frmlogin,FONTSIZE,14px
+    loginthankyou,frmlogin,FONTBOLD,false
+    loginthankyou,frmlogin,FONTITALIC,false
+    loginthankyou,frmlogin,FONTUNDERLINE,false
+    loginthankyou,frmlogin,FONTSTRIKETHRU,false
+    loginthankyou,frmlogin,INFO,
+    loginthankyou,frmlogin,PAGECOUNT,0
+    loginthankyou,frmlogin,DATABIND,
+    loginthankyou,frmlogin,BINDMAPPING,
+    loginthankyou,frmlogin,drag.x,1
+    loginthankyou,frmlogin,drag.y,1
+    loginthankyou,frmlogin,xdragrange,-1<SEMI> -1
+    loginthankyou,frmlogin,ydragrange,-1<SEMI> -1
+    loginthankyou,frmlogin,size.x,1
+    loginthankyou,frmlogin,size.y,1
+    loginthankyou,frmlogin,negadj,
+    loginthankyou,frmlogin,posadj,
+    loginthankyou,frmlogin,child,false
+    loginthankyou,frmlogin,displaymode,absolute
+    loginthankyou,frmlogin,TAG,~bind<COLN> false<LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>record<COLN> <LF>sizeable<COLN> false<LF>tag<COLN> <LF>theme<COLN> nimble-frame<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> <LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> <LF>lock-height<COLN> !!!!<LF>lock-pos<COLN> !!!!<LF>lock-width<COLN> <LF>~border<COLN> none<LF>color<COLN> #000000<LF>cursor<COLN> <LF>display<COLN> inline-block<LF>float<COLN> <LF>left<COLN> calc(50% - 280px)<LF>opacity<COLN> <LF>overflow<COLN> visible<LF>padding<COLN> 20px 20px 20px 20px<LF>position<COLN> absolute<LF>top<COLN> calc(50% - 160px)<LF>visibility<COLN> visible<LF>background-color<COLN> #ffffff<LF>border-radius<COLN> 7px<LF>box-shadow<COLN> rgba(80<COMMA>80<COMMA>80<COMMA>.40) 3px 8px 18px 0px<LF>box-sizing<COLN> border-box<LF>font-family<COLN> verdana<COMMA> geneva<COMMA> sans-serif<LF>font-size<COLN> 14px<LF>font-style<COLN> normal<LF>font-weight<COLN> normal<LF>max-height<COLN> 350px<LF>pointer-events<COLN> inherit<LF>text-align<COLN> center<LF>text-decoration<COLN> <LF>vertical-align<COLN>
+    loginthankyou,frmlogin,LOCK,false
+    loginthankyou,frmlogin,events,menu<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousedown<COLN> <CR>mousewheel<COLN> <CR>click<COLN> <CR>longpress<COLN> <CR>mouseenter<COLN> <CR>dblclick<COLN> <CR>dragstart<COLN> <CR>dragging<COLN> <CR>dragover<COLN> <CR>drop<COLN> <CR>mousewheel<COLN> <CR>touchstart<COLN> <CR>touchmove<COLN> <CR>touchend<COLN>
+    loginthankyou,frmlogin,extend,{}
+loginthankyou,frmlogin,REFRESH, 
+loginthankyou,infotitle,TARGET,frmlogin
+loginthankyou,infotitle,PARENTGROUP,~
+loginthankyou,infotitle,load,label|THANK YOU!|0|0|105|46|1342377216|32
+    loginthankyou,infotitle,group,false
+    loginthankyou,infotitle,groupid,0
+    loginthankyou,infotitle,groupby,0
+    loginthankyou,infotitle,widgetlock,false
+    loginthankyou,infotitle,iswidget,false
+    loginthankyou,infotitle,iscollection,false
+    loginthankyou,infotitle,collectname,
+    loginthankyou,infotitle,widgetname,
+    loginthankyou,infotitle,placeholder,
+    loginthankyou,infotitle,addedby,
+    loginthankyou,infotitle,DOCK,FFFF
+    loginthankyou,infotitle,PICTURE,media/img_missing.png
+    loginthankyou,infotitle,SIZE,105<PIP>46
+    loginthankyou,infotitle,JSON,{}
+    loginthankyou,infotitle,TEXT,THANK YOU!
+    loginthankyou,infotitle,TOOLTIP,
+    loginthankyou,infotitle,ENABLED,true
+    loginthankyou,infotitle,VISIBLE,true
+    loginthankyou,infotitle,ZORDER,0
+    loginthankyou,infotitle,FORECOLOR,&h000000
+    loginthankyou,infotitle,BACKCOLOR,transparent
+    loginthankyou,infotitle,FONTNAME,verdana<COMMA> geneva<COMMA> sans-serif
+    loginthankyou,infotitle,FONTSIZE,24px
+    loginthankyou,infotitle,FONTBOLD,true
+    loginthankyou,infotitle,FONTITALIC,false
+    loginthankyou,infotitle,FONTUNDERLINE,false
+    loginthankyou,infotitle,FONTSTRIKETHRU,false
+    loginthankyou,infotitle,INFO,
+    loginthankyou,infotitle,PAGECOUNT,0
+    loginthankyou,infotitle,DATABIND,
+    loginthankyou,infotitle,BINDMAPPING,
+    loginthankyou,infotitle,drag.x,1
+    loginthankyou,infotitle,drag.y,1
+    loginthankyou,infotitle,xdragrange,-1<SEMI> -1
+    loginthankyou,infotitle,ydragrange,-1<SEMI> -1
+    loginthankyou,infotitle,size.x,1
+    loginthankyou,infotitle,size.y,1
+    loginthankyou,infotitle,negadj,
+    loginthankyou,infotitle,posadj,
+    loginthankyou,infotitle,child,true
+    loginthankyou,infotitle,displaymode,block
+    loginthankyou,infotitle,TAG,~bind<COLN> false<LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>record<COLN> <LF>scaletype<COLN> false<LF>sizeable<COLN> false<LF>tag<COLN> <LF>theme<COLN> nimble-label<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> !!!!<LF>lock-height<COLN> <LF>lock-width<COLN> <LF>scale-cpl<COLN> 25<LF>~color<COLN> #000000<LF>cursor<COLN> <LF>display<COLN> table<LF>opacity<COLN> <LF>padding<COLN> 0px 0px<LF>visibility<COLN> visible<LF>background-color<COLN> transparent<LF>border-style<COLN> solid<LF>border-width<COLN> 0px<LF>font-family<COLN> verdana<COMMA> geneva<COMMA> sans-serif<LF>font-size<COLN> 24px<LF>font-style<COLN> normal<LF>font-weight<COLN> bold<LF>pointer-events<COLN> inherit<LF>text-align<COLN> left<LF>text-decoration<COLN> <LF>vertical-align<COLN> <LF>caption.display<COLN> table-cell<LF>caption.position<COLN> relative<LF>caption.vertical-align<COLN> middle<LF>caption.width<COLN> auto<LF>div.display<COLN> block<LF>div.margin<COLN> 25px 0px 15px 0px<LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative
+    loginthankyou,infotitle,LOCK,false
+    loginthankyou,infotitle,events,
+    loginthankyou,infotitle,extend,{}
+loginthankyou,infotitle,REFRESH, 
+loginthankyou,info,TARGET,frmlogin
+loginthankyou,info,PARENTGROUP,~
+loginthankyou,info,load,label|Thank you for your support. You should be receiving an email with details and receipt of your purchase.|0|0|105|622|1342377216|32
+    loginthankyou,info,group,false
+    loginthankyou,info,groupid,0
+    loginthankyou,info,groupby,9999999999
+    loginthankyou,info,widgetlock,false
+    loginthankyou,info,iswidget,false
+    loginthankyou,info,iscollection,false
+    loginthankyou,info,collectname,
+    loginthankyou,info,widgetname,
+    loginthankyou,info,placeholder,
+    loginthankyou,info,addedby,
+    loginthankyou,info,DOCK,TTFF
+    loginthankyou,info,PICTURE,media/img_missing.png
+    loginthankyou,info,SIZE,105<PIP>622
+    loginthankyou,info,JSON,{}
+    loginthankyou,info,TEXT,Thank you for your support. You should be receiving an email with details and receipt of your purchase.
+    loginthankyou,info,TOOLTIP,
+    loginthankyou,info,ENABLED,true
+    loginthankyou,info,VISIBLE,true
+    loginthankyou,info,ZORDER,0
+    loginthankyou,info,FORECOLOR,&h5a5a5a
+    loginthankyou,info,BACKCOLOR,transparent
+    loginthankyou,info,FONTNAME,verdana<COMMA> geneva<COMMA> sans-serif
+    loginthankyou,info,FONTSIZE,18px
+    loginthankyou,info,FONTBOLD,false
+    loginthankyou,info,FONTITALIC,false
+    loginthankyou,info,FONTUNDERLINE,false
+    loginthankyou,info,FONTSTRIKETHRU,false
+    loginthankyou,info,INFO,
+    loginthankyou,info,PAGECOUNT,0
+    loginthankyou,info,DATABIND,
+    loginthankyou,info,BINDMAPPING,
+    loginthankyou,info,drag.x,1
+    loginthankyou,info,drag.y,1
+    loginthankyou,info,xdragrange,-1<SEMI> -1
+    loginthankyou,info,ydragrange,-1<SEMI> -1
+    loginthankyou,info,size.x,1
+    loginthankyou,info,size.y,1
+    loginthankyou,info,negadj,
+    loginthankyou,info,posadj,
+    loginthankyou,info,child,true
+    loginthankyou,info,displaymode,block
+    loginthankyou,info,TAG,~bind<COLN> false<LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>record<COLN> <LF>scaletype<COLN> false<LF>sizeable<COLN> false<LF>tag<COLN> <LF>theme<COLN> nimble-label<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> !!!!<LF>lock-height<COLN> !!!!<LF>lock-width<COLN> <LF>scale-cpl<COLN> 25<LF>~color<COLN> #5a5a5a<LF>cursor<COLN> <LF>display<COLN> table<LF>height<COLN> calc(100% - 170px)<LF>opacity<COLN> <LF>padding<COLN> 0px 0px<LF>visibility<COLN> visible<LF>background-color<COLN> transparent<LF>border-style<COLN> solid<LF>border-width<COLN> 0px<LF>font-family<COLN> verdana<COMMA> geneva<COMMA> sans-serif<LF>font-size<COLN> 18px<LF>font-style<COLN> normal<LF>font-weight<COLN> normal<LF>pointer-events<COLN> inherit<LF>text-align<COLN> left<LF>text-decoration<COLN> <LF>vertical-align<COLN> <LF>caption.display<COLN> table-cell<LF>caption.line-height<COLN> 145%<LF>caption.position<COLN> relative<LF>caption.vertical-align<COLN> middle<LF>caption.width<COLN> auto<LF>div.display<COLN> block<LF>div.margin<COLN> 0px 0px 35px 0px<LF>div.overflow-y<COLN> auto<LF>div.padding<COLN> 20px 20px 20px 20px<LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative
+    loginthankyou,info,LOCK,false
+    loginthankyou,info,events,change<COLN> <CR>click<COLN> <CR>dblclick<COLN> <CR>longpress<COLN> <CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    loginthankyou,info,extend,{"react"<COLN>"<LF>"}
+loginthankyou,info,REFRESH, 
+loginthankyou,btnagree,TARGET,frmlogin
+loginthankyou,btnagree,PARENTGROUP,~
+loginthankyou,btnagree,load,button|Home|0|0|150|45|1342394112|32
+    loginthankyou,btnagree,group,true
+    loginthankyou,btnagree,groupid,0
+    loginthankyou,btnagree,groupby,9999999999
+    loginthankyou,btnagree,widgetlock,false
+    loginthankyou,btnagree,iswidget,false
+    loginthankyou,btnagree,iscollection,false
+    loginthankyou,btnagree,collectname,
+    loginthankyou,btnagree,widgetname,
+    loginthankyou,btnagree,placeholder,
+    loginthankyou,btnagree,addedby,
+    loginthankyou,btnagree,DOCK,FFFF
+    loginthankyou,btnagree,PICTURE,media/img_missing.png
+    loginthankyou,btnagree,SIZE,150<PIP>45
+    loginthankyou,btnagree,JSON,{}
+    loginthankyou,btnagree,TEXT,Home
+    loginthankyou,btnagree,TOOLTIP,
+    loginthankyou,btnagree,ENABLED,true
+    loginthankyou,btnagree,VISIBLE,true
+    loginthankyou,btnagree,ZORDER,0
+    loginthankyou,btnagree,FORECOLOR,&hffffff
+    loginthankyou,btnagree,BACKCOLOR,&h224488
+    loginthankyou,btnagree,FONTNAME,verdana<COMMA> geneva<COMMA> sans-serif
+    loginthankyou,btnagree,FONTSIZE,14px
+    loginthankyou,btnagree,FONTBOLD,false
+    loginthankyou,btnagree,FONTITALIC,false
+    loginthankyou,btnagree,FONTUNDERLINE,false
+    loginthankyou,btnagree,FONTSTRIKETHRU,false
+    loginthankyou,btnagree,INFO,
+    loginthankyou,btnagree,PAGECOUNT,0
+    loginthankyou,btnagree,DATABIND,
+    loginthankyou,btnagree,BINDMAPPING,
+    loginthankyou,btnagree,drag.x,1
+    loginthankyou,btnagree,drag.y,1
+    loginthankyou,btnagree,xdragrange,-1<SEMI> -1
+    loginthankyou,btnagree,ydragrange,-1<SEMI> -1
+    loginthankyou,btnagree,size.x,1
+    loginthankyou,btnagree,size.y,1
+    loginthankyou,btnagree,negadj,
+    loginthankyou,btnagree,posadj,
+    loginthankyou,btnagree,child,true
+    loginthankyou,btnagree,displaymode,inline-block
+    loginthankyou,btnagree,TAG,~bind<COLN> false<LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>record<COLN> <LF>sizeable<COLN> false<LF>tag<COLN> -<LF>theme<COLN> nimble-button<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> <LF>lock-height<COLN> <LF>lock-width<COLN> <LF>~background<COLN> linear-gradient(90deg<COMMA> rgba(1<COMMA>64<COMMA>89<COMMA>1) 0%<COMMA> rgba(60<COMMA>160<COMMA>210<COMMA>1) 100%);<LF>border<COLN> 0.5px solid #000<LF>color<COLN> #ffffff<LF>cursor<COLN> <LF>display<COLN> <LF>opacity<COLN> <LF>padding<COLN> 2px 7.5px<LF>visibility<COLN> visible<LF>background-color<COLN> #224488<LF>border-color<COLN> #bbb<LF>border-radius<COLN> 30px<LF>border-style<COLN> <LF>border-width<COLN> <LF>box-shadow<COLN> rgba(80<COMMA>80<COMMA>80<COMMA>.40) 3px 8px 18px 0px<LF>font-family<COLN> verdana<COMMA> geneva<COMMA> sans-serif<LF>font-size<COLN> 14px<LF>font-style<COLN> normal<LF>font-weight<COLN> normal<LF>max-width<COLN> 150px<LF>pointer-events<COLN> inherit<LF>text-align<COLN> <LF>text-decoration<COLN> <LF>vertical-align<COLN> <LF>caption.position<COLN> absolute<LF>caption.text-align<COLN> center<LF>caption.top<COLN> calc(50% - 0.6em)<LF>caption.width<COLN> calc(100% - 15px)<LF>div.display<COLN> inline-block<LF>div.margin<COLN> -10px 5px -5px 5px<LF>div.padding<COLN> 0px 0px 0px 0px<LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative
+    loginthankyou,btnagree,LOCK,false
+    loginthankyou,btnagree,events,menu<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousedown<COLN> <CR>mousewheel<COLN> <CR>click<COLN> login.thankyou.agree.click<CR>longpress<COLN> <CR>mouseenter<COLN> <CR>dblclick<COLN> <CR>gotfocus<COLN> <CR>lostfocus<COLN> <CR>touchstart<COLN> <CR>touchmove<COLN> <CR>touchend<COLN>
+    loginthankyou,btnagree,extend,{}
+loginthankyou,btnagree,REFRESH, 
+loginthankyou,,SETVIEW,
+loginthankyou,,HIDE,
+loginthankyou,,REFRESH,true

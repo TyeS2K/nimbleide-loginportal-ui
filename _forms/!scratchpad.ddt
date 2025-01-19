@@ -1,0 +1,38 @@
+!scratchpad,,SURFACE,Scratchpad|50|140|640|480|268435476|65568
+    !scratchpad,,version,5.0
+    !scratchpad,,groupid,12000
+    !scratchpad,,groupby,0
+    !scratchpad,,DOCK,FFFF
+    !scratchpad,,PARENT,
+    !scratchpad,,MARGINS,
+    !scratchpad,,AUTOSIZE,false
+    !scratchpad,,TEXT,New Surface
+    !scratchpad,,TOOLTIP,
+    !scratchpad,,ENABLED,true
+    !scratchpad,,VISIBLE,true
+    !scratchpad,,FORECOLOR,&heeeeee
+    !scratchpad,,BACKCOLOR,&hf9f9f9
+    !scratchpad,,ICON,
+    !scratchpad,,MENUBAR,
+    !scratchpad,,TOOLBAR,
+    !scratchpad,,STATUSBAR,
+    !scratchpad,,SAVESTATE,false
+    !scratchpad,,drag.x,
+    !scratchpad,,drag.y,
+    !scratchpad,,xdragrange,
+    !scratchpad,,ydragrange,
+    !scratchpad,,size.x,
+    !scratchpad,,size.y,
+    !scratchpad,,negadj,
+    !scratchpad,,posadj,
+    !scratchpad,,TAG,~bind<COLN> false<CR>body.version<COLN> v5.0<CR>category<COLN> <CR>class<COLN> <CR>clipmenu<COLN> true<CR>donottheme<COLN> false<CR>dragable<COLN> true<CR>flattenonpull<COLN> true<CR>hotkey<COLN> <CR>ignorezorder<COLN> false<CR>lock-height<COLN> <CR>lock-width<COLN> <CR>output<COLN> normal<CR>record<COLN> <CR>shadow<COLN> true<CR>sizeable<COLN> true<CR>tag<COLN> <CR>theme<COLN> nimble-form<CR>toggleonflip<COLN> true<CR>useastheme<COLN> false<CR>watch<COLN> false~background-color<COLN> #f9f9f9<CR>color<COLN> #eeeeee<CR>resize.visibility<COLN> visible<CR>cursor<COLN> <CR>display<COLN> <CR>font-family<COLN> ''comic sans ms''<COMMA> cursive<COMMA> sans-serif<CR>font-size<COLN> 14px<CR>font-style<COLN> normal<CR>font-weight<COLN> normal<CR>opacity<COLN> <CR>pointer-events<COLN> initial<CR>text-align<COLN> <CR>text-decoration<COLN> <CR>vertical-align<COLN> <CR>z-index<COLN> 2
+    !scratchpad,,GROUPIDS,
+    !scratchpad,,WSTYLES,268435476
+    !scratchpad,,WSTYLESEX,65568
+    !scratchpad,,WIDTH,640
+    !scratchpad,,HEIGHT,480
+    !scratchpad,,EDITPOS,50|140
+!scratchpad,!scratchmsg,REFRESH, 
+!scratchpad,,SETVIEW,
+!scratchpad,,HIDE,
+!scratchpad,,REFRESH,true

@@ -1,0 +1,2 @@
+Id|Level|Form Name|Icon|Caption|Url|Tooltip
+loginui|1|loginmain|media/icons/app.gif|loginmain (Launch Dialog)|JS.Launch(1,'loginui','js/loginui.js','js');|

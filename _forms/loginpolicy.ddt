@@ -1,0 +1,342 @@
+loginpolicy,,SURFACE,New Surface|50|155|737|207|268437524|65568
+    loginpolicy,,version,5.0
+    loginpolicy,,loadlibs,
+    loginpolicy,,groupid,9999999999
+    loginpolicy,,groupby,0
+    loginpolicy,,runpos,0|0
+    loginpolicy,,DOCK,FFFF
+    loginpolicy,,PARENT,
+    loginpolicy,,MARGINS,
+    loginpolicy,,AUTOSIZE,false
+    loginpolicy,,JSON,{}
+    loginpolicy,,TEXT,New Surface
+    loginpolicy,,TOOLTIP,
+    loginpolicy,,ENABLED,true
+    loginpolicy,,VISIBLE,true
+    loginpolicy,,FORECOLOR,&heeeeee
+    loginpolicy,,BACKCOLOR,transparent
+    loginpolicy,,ICON,
+    loginpolicy,,FONTNAME,inherit
+    loginpolicy,,FONTSIZE,
+    loginpolicy,,FONTBOLD,false
+    loginpolicy,,FONTITALIC,false
+    loginpolicy,,FONTUNDERLINE,false
+    loginpolicy,,FONTSTRIKETHRU,false
+    loginpolicy,,MENUBAR,
+    loginpolicy,,TOOLBAR,
+    loginpolicy,,STATUSBAR,
+    loginpolicy,,SAVESTATE,false
+    loginpolicy,,drag.x,
+    loginpolicy,,drag.y,
+    loginpolicy,,xdragrange,
+    loginpolicy,,ydragrange,
+    loginpolicy,,size.x,
+    loginpolicy,,size.y,
+    loginpolicy,,negadj,
+    loginpolicy,,posadj,
+    loginpolicy,,TAG,~autosize<COLN> false<LF>bind<COLN> false<LF>category<COLN> <LF>class<COLN> <LF>clipmenu<COLN> true<LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>flattenonpull<COLN> true<LF>hotkey<COLN> <LF>ignorezorder<COLN> false<LF>output<COLN> normal<LF>record<COLN> <LF>shadow<COLN> false<LF>sizeable<COLN> false<LF>tag<COLN> <LF>theme<COLN> nimble-form<LF>toggleonflip<COLN> true<LF>useastheme<COLN> false<LF>watch<COLN> false<LF>lock-height<COLN> <LF>lock-width<COLN> <LF>body.lock-height<COLN> <LF>body.version<COLN> v5.0~color<COLN> #eeeeee<LF>cursor<COLN> <LF>display<COLN> <LF>opacity<COLN> <LF>background-color<COLN> transparent<LF>font-family<COLN> inherit<LF>font-size<COLN> <LF>font-style<COLN> normal<LF>font-weight<COLN> normal<LF>pointer-events<COLN> auto<LF>text-decoration<COLN> <LF>z-index<COLN> 2<LF>body.background-color<COLN> TRANSPARENT<LF>body.box-sizing<COLN> border-box<LF>body.color<COLN> #eeeeee<LF>body.overflow<COLN> visible<LF>body.text-align<COLN> center<LF>body.vertical-align<COLN>
+    loginpolicy,,events,activate<COLN> login.policy.maximize<CR>adjustlayout<COLN> <CR>afterpull<COLN> <CR>afterpush<COLN> <CR>click<COLN> <CR>dblclick<COLN> <CR>disabled<COLN> <CR>dragging<COLN> <CR>dragover<COLN> <CR>dragstart<COLN> <CR>drop<COLN> <CR>enabled<COLN> <CR>enterkey<COLN> <CR>fullscreen<COLN> <CR>gotfocus<COLN> <CR>hide<COLN> <CR>keydown<COLN> <CR>keypress<COLN> <CR>keyup<COLN> <CR>load<COLN> login.policy.loadPrivacy<CR>longpress<COLN> <CR>lostfocus<COLN> <CR>maximize<COLN> <CR>menu<COLN> <CR>minimize<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>onpull<COLN> <CR>onpush<COLN> <CR>queryunload<COLN> <CR>refresh<COLN> <CR>resize<COLN> <CR>restore<COLN> <CR>touchend<COLN><CR>touchmove<COLN> <CR>touchstart<COLN> <CR>unload<COLN> <CR>viewchange<COLN> <CR>widgetloaded<COLN> <CR>widgetunloading<COLN>
+    loginpolicy,,extend,{}
+    loginpolicy,,GROUPIDS,[0100][0400]
+    loginpolicy,,WSTYLES,268437524
+    loginpolicy,,WSTYLESEX,65568
+    loginpolicy,,WIDTH,737
+    loginpolicy,,HEIGHT,207
+    loginpolicy,,EDITPOS,50|155
+loginpolicy,label1,TARGET,~
+loginpolicy,label1,PARENTGROUP,~
+loginpolicy,label1,load,label||0|0|105|1|1342377216|32
+    loginpolicy,label1,group,false
+    loginpolicy,label1,groupid,0
+    loginpolicy,label1,groupby,9999999999
+    loginpolicy,label1,widgetlock,false
+    loginpolicy,label1,iswidget,false
+    loginpolicy,label1,iscollection,false
+    loginpolicy,label1,collectname,
+    loginpolicy,label1,widgetname,
+    loginpolicy,label1,placeholder,
+    loginpolicy,label1,addedby,
+    loginpolicy,label1,DOCK,FFFF
+    loginpolicy,label1,PICTURE,media/img_missing.png
+    loginpolicy,label1,SIZE,105<PIP>1
+    loginpolicy,label1,JSON,{}
+    loginpolicy,label1,TEXT, 
+    loginpolicy,label1,TOOLTIP,
+    loginpolicy,label1,ENABLED,true
+    loginpolicy,label1,VISIBLE,true
+    loginpolicy,label1,ZORDER,0
+    loginpolicy,label1,FORECOLOR,&h000000
+    loginpolicy,label1,BACKCOLOR,transparent
+    loginpolicy,label1,FONTNAME,verdana<COMMA> geneva<COMMA> sans-serif
+    loginpolicy,label1,FONTSIZE,14px
+    loginpolicy,label1,FONTBOLD,false
+    loginpolicy,label1,FONTITALIC,false
+    loginpolicy,label1,FONTUNDERLINE,false
+    loginpolicy,label1,FONTSTRIKETHRU,false
+    loginpolicy,label1,INFO,
+    loginpolicy,label1,PAGECOUNT,0
+    loginpolicy,label1,DATABIND,
+    loginpolicy,label1,BINDMAPPING,
+    loginpolicy,label1,drag.x,1
+    loginpolicy,label1,drag.y,1
+    loginpolicy,label1,xdragrange,-1<SEMI> -1
+    loginpolicy,label1,ydragrange,-1<SEMI> -1
+    loginpolicy,label1,size.x,1
+    loginpolicy,label1,size.y,1
+    loginpolicy,label1,negadj,
+    loginpolicy,label1,posadj,
+    loginpolicy,label1,child,false
+    loginpolicy,label1,displaymode,block
+    loginpolicy,label1,TAG,~bind<COLN> false<LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>record<COLN> <LF>scaletype<COLN> false<LF>sizeable<COLN> false<LF>tag<COLN> <LF>theme<COLN> nimble-label<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> !!!!<LF>lock-height<COLN> <LF>lock-width<COLN> <LF>scale-cpl<COLN> 25<LF>~color<COLN> #000000<LF>cursor<COLN> <LF>display<COLN> table<LF>float<COLN> <LF>opacity<COLN> <LF>padding<COLN> 0px 0px<LF>visibility<COLN> visible<LF>background-color<COLN> transparent<LF>border-style<COLN> solid<LF>border-width<COLN> 0px<LF>font-family<COLN> verdana<COMMA> geneva<COMMA> sans-serif<LF>font-size<COLN> 14px<LF>font-style<COLN> normal<LF>font-weight<COLN> normal<LF>pointer-events<COLN> inherit<LF>text-align<COLN> left<LF>text-decoration<COLN> <LF>vertical-align<COLN> <LF>caption.display<COLN> table-cell<LF>caption.position<COLN> relative<LF>caption.vertical-align<COLN> middle<LF>caption.width<COLN> auto<LF>div.display<COLN> block<LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative
+    loginpolicy,label1,LOCK,false
+    loginpolicy,label1,events,
+    loginpolicy,label1,extend,{}
+loginpolicy,label1,REFRESH, 
+loginpolicy,prvpage,TARGET,~
+loginpolicy,prvpage,PARENTGROUP,~
+loginpolicy,prvpage,load,frame||0|0|600|265|1342177287|544
+    loginpolicy,prvpage,group,true
+    loginpolicy,prvpage,groupid,0100
+    loginpolicy,prvpage,groupby,9999999999
+    loginpolicy,prvpage,widgetlock,false
+    loginpolicy,prvpage,iswidget,false
+    loginpolicy,prvpage,iscollection,false
+    loginpolicy,prvpage,collectname,
+    loginpolicy,prvpage,widgetname,
+    loginpolicy,prvpage,placeholder,
+    loginpolicy,prvpage,addedby,
+    loginpolicy,prvpage,DOCK,FFFF
+    loginpolicy,prvpage,PICTURE,media/img_missing.png
+    loginpolicy,prvpage,SIZE,600<PIP>265
+    loginpolicy,prvpage,JSON,{}
+    loginpolicy,prvpage,TEXT,
+    loginpolicy,prvpage,TOOLTIP,
+    loginpolicy,prvpage,ENABLED,true
+    loginpolicy,prvpage,VISIBLE,true
+    loginpolicy,prvpage,ZORDER,0
+    loginpolicy,prvpage,FORECOLOR,&h000000
+    loginpolicy,prvpage,BACKCOLOR,&hffffff
+    loginpolicy,prvpage,FONTNAME,verdana<COMMA> geneva<COMMA> sans-serif
+    loginpolicy,prvpage,FONTSIZE,14px
+    loginpolicy,prvpage,FONTBOLD,false
+    loginpolicy,prvpage,FONTITALIC,false
+    loginpolicy,prvpage,FONTUNDERLINE,false
+    loginpolicy,prvpage,FONTSTRIKETHRU,false
+    loginpolicy,prvpage,INFO,
+    loginpolicy,prvpage,PAGECOUNT,0
+    loginpolicy,prvpage,DATABIND,
+    loginpolicy,prvpage,BINDMAPPING,
+    loginpolicy,prvpage,drag.x,1
+    loginpolicy,prvpage,drag.y,1
+    loginpolicy,prvpage,xdragrange,-1<SEMI> -1
+    loginpolicy,prvpage,ydragrange,-1<SEMI> -1
+    loginpolicy,prvpage,size.x,1
+    loginpolicy,prvpage,size.y,1
+    loginpolicy,prvpage,negadj,
+    loginpolicy,prvpage,posadj,
+    loginpolicy,prvpage,child,false
+    loginpolicy,prvpage,displaymode,inline-block
+    loginpolicy,prvpage,TAG,~bind<COLN> false<LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>record<COLN> <LF>sizeable<COLN> false<LF>tag<COLN> <LF>theme<COLN> nimble-frame<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> <LF>lock-height<COLN> !!!!<LF>lock-width<COLN> <LF>~border<COLN> none<LF>color<COLN> #000000<LF>cursor<COLN> <LF>display<COLN> inline-block<LF>float<COLN> <LF>height<COLN> calc(100% - 65px)<LF>margin<COLN> 20px 0px 0px 0px<LF>opacity<COLN> <LF>overflow<COLN> visible<LF>padding<COLN> 20px 20px 20px 20px<LF>position<COLN> relative<LF>visibility<COLN> visible<LF>background-color<COLN> #ffffff<LF>border-radius<COLN> 7px<LF>box-shadow<COLN> rgba(80<COMMA>80<COMMA>80<COMMA>.40) 3px 8px 18px 0px<LF>box-sizing<COLN> border-box<LF>font-family<COLN> verdana<COMMA> geneva<COMMA> sans-serif<LF>font-size<COLN> 14px<LF>font-style<COLN> normal<LF>font-weight<COLN> normal<LF>min-width<COLN> 575px<LF>pointer-events<COLN> inherit<LF>text-align<COLN> center<LF>text-decoration<COLN> <LF>vertical-align<COLN>
+    loginpolicy,prvpage,LOCK,false
+    loginpolicy,prvpage,events,click<COLN> <CR>dblclick<COLN> <CR>dragging<COLN> <CR>dragover<COLN> <CR>dragstart<COLN> <CR>drop<COLN> <CR>longpress<COLN> <CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>mousewheel<COLN> <CR>touchend<COLN><CR>touchmove<COLN> <CR>touchstart<COLN>
+    loginpolicy,prvpage,extend,{}
+loginpolicy,prvpage,REFRESH, 
+loginpolicy,infotitle,TARGET,prvpage
+loginpolicy,infotitle,PARENTGROUP,~
+loginpolicy,infotitle,load,label|PRIVACY STATEMENT|0|0|105|36|1342377728|32
+    loginpolicy,infotitle,group,false
+    loginpolicy,infotitle,groupid,0
+    loginpolicy,infotitle,groupby,0
+    loginpolicy,infotitle,widgetlock,false
+    loginpolicy,infotitle,iswidget,false
+    loginpolicy,infotitle,iscollection,false
+    loginpolicy,infotitle,collectname,
+    loginpolicy,infotitle,widgetname,
+    loginpolicy,infotitle,placeholder,
+    loginpolicy,infotitle,addedby,
+    loginpolicy,infotitle,DOCK,FFFF
+    loginpolicy,infotitle,PICTURE,media/img_missing.png
+    loginpolicy,infotitle,SIZE,105<PIP>36
+    loginpolicy,infotitle,JSON,{}
+    loginpolicy,infotitle,TEXT,PRIVACY STATEMENT
+    loginpolicy,infotitle,TOOLTIP,
+    loginpolicy,infotitle,ENABLED,true
+    loginpolicy,infotitle,VISIBLE,true
+    loginpolicy,infotitle,ZORDER,0
+    loginpolicy,infotitle,FORECOLOR,&h000000
+    loginpolicy,infotitle,BACKCOLOR,transparent
+    loginpolicy,infotitle,FONTNAME,verdana<COMMA> geneva<COMMA> sans-serif
+    loginpolicy,infotitle,FONTSIZE,24px
+    loginpolicy,infotitle,FONTBOLD,true
+    loginpolicy,infotitle,FONTITALIC,false
+    loginpolicy,infotitle,FONTUNDERLINE,false
+    loginpolicy,infotitle,FONTSTRIKETHRU,false
+    loginpolicy,infotitle,INFO,
+    loginpolicy,infotitle,PAGECOUNT,0
+    loginpolicy,infotitle,DATABIND,
+    loginpolicy,infotitle,BINDMAPPING,
+    loginpolicy,infotitle,drag.x,1
+    loginpolicy,infotitle,drag.y,1
+    loginpolicy,infotitle,xdragrange,-1<SEMI> -1
+    loginpolicy,infotitle,ydragrange,-1<SEMI> -1
+    loginpolicy,infotitle,size.x,1
+    loginpolicy,infotitle,size.y,1
+    loginpolicy,infotitle,negadj,
+    loginpolicy,infotitle,posadj,
+    loginpolicy,infotitle,child,true
+    loginpolicy,infotitle,displaymode,block
+    loginpolicy,infotitle,TAG,~bind<COLN> false<LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>record<COLN> <LF>scaletype<COLN> false<LF>sizeable<COLN> false<LF>tag<COLN> <LF>theme<COLN> nimble-label<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> !!!!<LF>lock-height<COLN> <LF>lock-width<COLN> <LF>scale-cpl<COLN> 25<LF>~color<COLN> #000000<LF>cursor<COLN> <LF>display<COLN> table<LF>opacity<COLN> <LF>padding<COLN> 0px 0px<LF>visibility<COLN> visible<LF>background-color<COLN> transparent<LF>border-style<COLN> solid<LF>border-width<COLN> 0px<LF>font-family<COLN> verdana<COMMA> geneva<COMMA> sans-serif<LF>font-size<COLN> 24px<LF>font-style<COLN> normal<LF>font-weight<COLN> bold<LF>pointer-events<COLN> inherit<LF>text-align<COLN> left<LF>text-decoration<COLN> <LF>vertical-align<COLN> <LF>caption.display<COLN> table-cell<LF>caption.left<COLN> 0px<LF>caption.position<COLN> relative<LF>caption.text-align<COLN> center<LF>caption.vertical-align<COLN> middle<LF>caption.width<COLN> auto<LF>div.display<COLN> block<LF>div.margin<COLN> 25px 0px 15px 0px<LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative
+    loginpolicy,infotitle,LOCK,false
+    loginpolicy,infotitle,events,
+    loginpolicy,infotitle,extend,{}
+loginpolicy,infotitle,REFRESH, 
+loginpolicy,info,TARGET,prvpage
+loginpolicy,info,PARENTGROUP,~
+loginpolicy,info,load,label|<b>IMPORTANT<COLN></b> PLEASE READ THIS DOCUMENT IN ITS ENTIRETY<CR><CR>This End-User License Agreement (hereinafter<COMMA> ''Agreement'') creates a legally binding Agreement between you<COMMA> as an end user of our services (hereinafter<COMMA> ''End User'')<COMMA> and the following company<COLN> Nimble Solutions<COMMA> LLC (hereinafter<COMMA> ''Company''). You will be referred to through second-person pronouns such as ''your'' and ''yours.'' We<COMMA> the Company<COMMA> will be referred to with pronouns such as ''us<COMMA>'' ''our<COMMA>'' and ''ours.'' Collectively<COMMA> you and the Company may be referred to as the ''Parties'' and individually as ''Party.''<CR>This license governs the use of all of our software products (hereinafter<COMMA> ''Software'')<COMMA> specifically<COLN><CR>Nimble IDE<COLN> Software program for creating Html and Javascript applications for browser<COMMA> desktop and mobile platforms.<CR>By accessing<COMMA> downloading<COMMA> installing<COMMA> or otherwise using our Software in any way<COMMA> you agree to be bound by this Agreement in its entirety. If you do not agree<COMMA> you must cease use of the Software immediately.<CR><CR><b>SOFTWARE LICENSE<COLN></b> When you lawfully access the Software<COMMA> whether through purchase or other lawful means<COMMA> we grant you<COMMA> subject to all of the terms and conditions of this Agreement<COMMA> a non-exclusive<COMMA> non-transferable<COMMA> limited<COMMA> revocable license to use the Software (''License''). This License extends to the use of documentation<COMMA> data<COMMA> or information developed by the Company<COMMA> and other materials which may assist in your use of the Software. This License may not be transferred to any third parties without express<COMMA> lawful<COMMA> written permission from the Company and this License terminates upon your cessation of use of the Software.<CR>This License shall be applicable to all lawful End Users of the Software<COMMA> unless a separate written agreement has been executed between you and the Company.<CR><CR><b>LICENSE FEE<COLN></b> The License is provided for a fee<COMMA> in conjunction with the purchase of the Software. Such fee will be displayed to you prior to your purchase of the Software.<CR><CR><b>RESTRICTIONS<COLN></b> The License provided hereunder is subject to the following additional restrictions<COLN><CR>The license must not be transferred or sold to any third party. The license is not valid for software or computer companies or individuals which work for any of Nimble Solutions competitors. All users must agree not to reverse engineer the software in any way.<CR><CR><b>ADDITIONAL LICENSES<COLN></b> The following additional licenses may be available as related to the Software<COLN><CR>Educational License<COLN> Educational licenses for Nimble IDE are available at a discounted rate. Such license are institution-wide and must be negotiated separately with Nimble Solutions<COMMA> LLC.<CR><CR>Press License<COLN> To use Nimble IDE for public press purposes<COMMA> please contact Nimble Solutions<COMMA> LLC. Press licenses may be subject to an additional fee.<CR><CR><b>ADDITIONAL TERMS<COLN></b> Additional terms may be applicable to the Parties' relationship with each other<COMMA> such as the Company Terms <u> </u>Conditions or Terms of Use<COMMA> the Company Privacy Policy<COMMA> and any other such written agreements governing your relationship with us. Nothing contained herein is intended to restrict the terms of any other written agreement. Instead<COMMA> all relevant documents shall be construed as broadly as possible.<CR>The Terms <u> </u>Conditions/Terms of Use can be found at the following link<COLN> https<COLN>//www.nimble-ide.com/terms.The Privacy Policy can be found at the following link<COLN> https<COLN>//www.nimble-ide.com/privacy.<CR><CR><b>INTELLECTUAL PROPERTY<COLN></b> You agree that the Software<COMMA> Company website and all services provided by the Company are the property of the Company<COMMA> including all copyrights<COMMA> trademarks<COMMA> trade secrets<COMMA> patents<COMMA> and other intellectual property (''Company IP''). You agree that the Company owns all right<COMMA> title and interest in and to the Company IP and that you will not use the Company IP for any unlawful or infringing purpose. You agree not to reproduce or distribute the Company IP in any way<COMMA> including electronically or via registration of any new trademarks<COMMA> trade names<COMMA> service marks or Uniform Resource Locators (URLs)<COMMA> without express written permission from the Company.<CR><CR><b>ACCEPTABLE USE<COLN></b> You agree not to use the Software for any unlawful purpose or any purpose prohibited under this clause. You agree not to use the Software in any way that could damage the Company website<COMMA> services<COMMA> or general business of the Company.<CR>You further agree not to use the Software<COLN><CR>I) To harass<COMMA> abuse<COMMA> or threaten others or otherwise violate any person's legal rights<SEMI><CR>II) To violate any intellectual property rights of the Company or any third party<SEMI><CR>III) To upload or otherwise disseminate any computer viruses or other software that may damage the property of another<SEMI><CR>IV) To perpetrate any fraud<SEMI><CR>V) To engage in or create any unlawful gambling<COMMA> sweepstakes<COMMA> or pyramid scheme<SEMI><CR>VI) To publish or distribute any obscene or defamatory material<SEMI><CR>VII) To publish or distribute any material that incites violence<COMMA> hate<COMMA> or discrimination towards any group<SEMI><CR>VIII) To unlawfully gather information about others.<CR><CR><b>REVERSE ENGINEERING <u> </u>SECURITY<COLN></b> You agree not to undertake any of the following actions<COLN><CR>a) Reverse engineer<COMMA> or attempt to reverse engineer or disassemble the Software or any code within or related to the Software or the Company website<SEMI><CR>b) Violate the security of the Software through any unauthorized access<COMMA> circumvention of encryption or other security tools<COMMA> data mining or interference to any host<COMMA> user or network<SEMI><CR>c) Copy or otherwise distribute copies of the Software unlawfully<COMMA> such as through any peer-to-peer network or other intellectual property circumvention tool.<CR><CR><b>MAINTENANCE<COLN></b> This License includes Software maintenance and support. Please contact the Company for assistance.<CR><CR><b>INDEMNIFICATION<COLN></b> You agree to defend and indemnify the Company and any of its affiliates (if applicable) and hold us harmless against any and all legal claims and demands<COMMA> including reasonable attorney's fees<COMMA> which may arise from or relate to your use or misuse of the Software<COMMA> your breach of this Agreement<COMMA> or your conduct or actions. You agree that the Company shall be able to select its own legal counsel and may participate in its own defense<COMMA> if the Company wishes.<CR><CR><b>SPAM POLICY<COLN></b> You are strictly prohibited from using the Software or any of the Company's services for illegal spam activities<COMMA> including gathering email addresses and personal information from others or sending any mass commercial emails.<CR><CR><b>SERVICE INTERRUPTIONS<COLN></b> The Company may need to interrupt access to the Software to perform maintenance or emergency services on a scheduled or unscheduled basis. You agree that your access to the Software may be affected by unanticipated or unscheduled downtime<COMMA> for any reason<COMMA> but that the Company shall have no liability for any damage or loss caused as a result of such downtime.<CR><CR><b>NO WARRANTIES<COLN></b> You agree that your use of the Software is at your sole and exclusive risk and that the Software is provided on ''As Is'' basis. The Company hereby expressly disclaims any and all express or implied warranties of any kind<COMMA> including<COMMA> but not limited to the implied warranty of fitness for a particular purpose and the implied warranty of merchantability. The Company makes no warranties that the Software will meet your needs or that access to the Software will be uninterrupted or error-free. The Company also makes no warranties as to the reliability or accuracy of any information contained within the Software. You agree that any damage that may occur to you<COMMA> through your computer system<COMMA> or as a result of loss of your data from your use of the Software is your sole responsibility and that the Company is not liable for any such damage or loss.<CR><CR><b>LIMITATION ON LIABILITY<COLN></b> The Company is not liable for any damages that may occur to you as a result of your use of the Software<COMMA> to the fullest extent permitted by law. The maximum liability of the Company arising from or relating to this Agreement is limited to the greater of one hundred ($100) US Dollars or the amount you paid to the Company in the last six (6) months. This section applies to any and all claims by you<COMMA> including<COMMA> but not limited to<COMMA> lost profits or revenues<COMMA> consequential or punitive damages<COMMA> negligence<COMMA> strict liability<COMMA> fraud<COMMA> or torts of any kind.<CR><CR><b>DISPUTE RESOLUTION <u> </u>GOVERNING LAW<COLN></b> All disputes will be resolved as provided for in the Terms <u> </u>Conditions or Terms of Service. Should Company not have a live version of any Terms document or any other provisions in any user-facing document covering dispute resolution and governing law<COMMA> the laws of Florida shall govern any matter or dispute relating to or arising from this EULA or the Company's relationship with End User.<CR><CR><b>ASSIGNMENT<COLN></b> This Agreement<COMMA> or the rights granted hereunder<COMMA> may not be assigned<COMMA> sold<COMMA> leased or otherwise transferred in whole or part by you. Should this Agreement<COMMA> or the rights granted hereunder<COMMA> by assigned<COMMA> sold<COMMA> leased or otherwise transferred by the Company<COMMA> the rights and liabilities of the Company will bind and inure to any assignees<COMMA> administrators<COMMA> successors<COMMA> and executors.<CR><CR><b>HEADINGS FOR CONVENIENCE ONLY<COLN></b> Headings of parts and sub-parts under this Agreement are for convenience and organization<COMMA> only. Headings shall not affect the meaning of any provisions of this Agreement.<CR><CR><b>NO AGENCY<COMMA> PARTNERSHIP OR JOINT VENTURE<COLN></b> No agency<COMMA> partnership<COMMA> or joint venture has been created between the Parties as a result of this Agreement. No Party has any authority to bind the other to third parties.<CR><CR><b>FORCE MAJEURE<COLN></b> The Company is not liable for any failure to perform due to causes beyond its reasonable control including<COMMA> but not limited to<COMMA> acts of God<COMMA> acts of civil authorities<COMMA> acts of military authorities<COMMA> riots<COMMA> embargoes<COMMA> acts of nature and natural disasters<COMMA> and other acts which may be due to unforeseen circumstances.<CR><CR><b>ELECTRONIC COMMUNICATIONS PERMITTED<COLN></b> Electronic communications are permitted to both Parties under this Agreement<COMMA> including e-mail or fax. For any questions or concerns<COMMA> please email us at the following address<COLN> nimblejs@nimble-ide.com.|0|0|105|622|1342375168|32
+    loginpolicy,info,group,false
+    loginpolicy,info,groupid,0
+    loginpolicy,info,groupby,9999999999
+    loginpolicy,info,widgetlock,false
+    loginpolicy,info,iswidget,false
+    loginpolicy,info,iscollection,false
+    loginpolicy,info,collectname,
+    loginpolicy,info,widgetname,
+    loginpolicy,info,placeholder,
+    loginpolicy,info,addedby,
+    loginpolicy,info,DOCK,TTFF
+    loginpolicy,info,PICTURE,media/img_missing.png
+    loginpolicy,info,SIZE,105<PIP>622
+    loginpolicy,info,JSON,{}
+    loginpolicy,info,TEXT,<b>IMPORTANT<COLN></b> PLEASE READ THIS DOCUMENT IN ITS ENTIRETY<CR><CR>This End-User License Agreement (hereinafter<COMMA> ''Agreement'') creates a legally binding Agreement between you<COMMA> as an end user of our services (hereinafter<COMMA> ''End User'')<COMMA> and the following company<COLN> Nimble Solutions<COMMA> LLC (hereinafter<COMMA> ''Company''). You will be referred to through second-person pronouns such as ''your'' and ''yours.'' We<COMMA> the Company<COMMA> will be referred to with pronouns such as ''us<COMMA>'' ''our<COMMA>'' and ''ours.'' Collectively<COMMA> you and the Company may be referred to as the ''Parties'' and individually as ''Party.''<CR>This license governs the use of all of our software products (hereinafter<COMMA> ''Software'')<COMMA> specifically<COLN><CR>Nimble IDE<COLN> Software program for creating Html and Javascript applications for browser<COMMA> desktop and mobile platforms.<CR>By accessing<COMMA> downloading<COMMA> installing<COMMA> or otherwise using our Software in any way<COMMA> you agree to be bound by this Agreement in its entirety. If you do not agree<COMMA> you must cease use of the Software immediately.<CR><CR><b>SOFTWARE LICENSE<COLN></b> When you lawfully access the Software<COMMA> whether through purchase or other lawful means<COMMA> we grant you<COMMA> subject to all of the terms and conditions of this Agreement<COMMA> a non-exclusive<COMMA> non-transferable<COMMA> limited<COMMA> revocable license to use the Software (''License''). This License extends to the use of documentation<COMMA> data<COMMA> or information developed by the Company<COMMA> and other materials which may assist in your use of the Software. This License may not be transferred to any third parties without express<COMMA> lawful<COMMA> written permission from the Company and this License terminates upon your cessation of use of the Software.<CR>This License shall be applicable to all lawful End Users of the Software<COMMA> unless a separate written agreement has been executed between you and the Company.<CR><CR><b>LICENSE FEE<COLN></b> The License is provided for a fee<COMMA> in conjunction with the purchase of the Software. Such fee will be displayed to you prior to your purchase of the Software.<CR><CR><b>RESTRICTIONS<COLN></b> The License provided hereunder is subject to the following additional restrictions<COLN><CR>The license must not be transferred or sold to any third party. The license is not valid for software or computer companies or individuals which work for any of Nimble Solutions competitors. All users must agree not to reverse engineer the software in any way.<CR><CR><b>ADDITIONAL LICENSES<COLN></b> The following additional licenses may be available as related to the Software<COLN><CR>Educational License<COLN> Educational licenses for Nimble IDE are available at a discounted rate. Such license are institution-wide and must be negotiated separately with Nimble Solutions<COMMA> LLC.<CR><CR>Press License<COLN> To use Nimble IDE for public press purposes<COMMA> please contact Nimble Solutions<COMMA> LLC. Press licenses may be subject to an additional fee.<CR><CR><b>ADDITIONAL TERMS<COLN></b> Additional terms may be applicable to the Parties' relationship with each other<COMMA> such as the Company Terms <u> </u>Conditions or Terms of Use<COMMA> the Company Privacy Policy<COMMA> and any other such written agreements governing your relationship with us. Nothing contained herein is intended to restrict the terms of any other written agreement. Instead<COMMA> all relevant documents shall be construed as broadly as possible.<CR>The Terms <u> </u>Conditions/Terms of Use can be found at the following link<COLN> https<COLN>//www.nimble-ide.com/terms.The Privacy Policy can be found at the following link<COLN> https<COLN>//www.nimble-ide.com/privacy.<CR><CR><b>INTELLECTUAL PROPERTY<COLN></b> You agree that the Software<COMMA> Company website and all services provided by the Company are the property of the Company<COMMA> including all copyrights<COMMA> trademarks<COMMA> trade secrets<COMMA> patents<COMMA> and other intellectual property (''Company IP''). You agree that the Company owns all right<COMMA> title and interest in and to the Company IP and that you will not use the Company IP for any unlawful or infringing purpose. You agree not to reproduce or distribute the Company IP in any way<COMMA> including electronically or via registration of any new trademarks<COMMA> trade names<COMMA> service marks or Uniform Resource Locators (URLs)<COMMA> without express written permission from the Company.<CR><CR><b>ACCEPTABLE USE<COLN></b> You agree not to use the Software for any unlawful purpose or any purpose prohibited under this clause. You agree not to use the Software in any way that could damage the Company website<COMMA> services<COMMA> or general business of the Company.<CR>You further agree not to use the Software<COLN><CR>I) To harass<COMMA> abuse<COMMA> or threaten others or otherwise violate any person's legal rights<SEMI><CR>II) To violate any intellectual property rights of the Company or any third party<SEMI><CR>III) To upload or otherwise disseminate any computer viruses or other software that may damage the property of another<SEMI><CR>IV) To perpetrate any fraud<SEMI><CR>V) To engage in or create any unlawful gambling<COMMA> sweepstakes<COMMA> or pyramid scheme<SEMI><CR>VI) To publish or distribute any obscene or defamatory material<SEMI><CR>VII) To publish or distribute any material that incites violence<COMMA> hate<COMMA> or discrimination towards any group<SEMI><CR>VIII) To unlawfully gather information about others.<CR><CR><b>REVERSE ENGINEERING <u> </u>SECURITY<COLN></b> You agree not to undertake any of the following actions<COLN><CR>a) Reverse engineer<COMMA> or attempt to reverse engineer or disassemble the Software or any code within or related to the Software or the Company website<SEMI><CR>b) Violate the security of the Software through any unauthorized access<COMMA> circumvention of encryption or other security tools<COMMA> data mining or interference to any host<COMMA> user or network<SEMI><CR>c) Copy or otherwise distribute copies of the Software unlawfully<COMMA> such as through any peer-to-peer network or other intellectual property circumvention tool.<CR><CR><b>MAINTENANCE<COLN></b> This License includes Software maintenance and support. Please contact the Company for assistance.<CR><CR><b>INDEMNIFICATION<COLN></b> You agree to defend and indemnify the Company and any of its affiliates (if applicable) and hold us harmless against any and all legal claims and demands<COMMA> including reasonable attorney's fees<COMMA> which may arise from or relate to your use or misuse of the Software<COMMA> your breach of this Agreement<COMMA> or your conduct or actions. You agree that the Company shall be able to select its own legal counsel and may participate in its own defense<COMMA> if the Company wishes.<CR><CR><b>SPAM POLICY<COLN></b> You are strictly prohibited from using the Software or any of the Company's services for illegal spam activities<COMMA> including gathering email addresses and personal information from others or sending any mass commercial emails.<CR><CR><b>SERVICE INTERRUPTIONS<COLN></b> The Company may need to interrupt access to the Software to perform maintenance or emergency services on a scheduled or unscheduled basis. You agree that your access to the Software may be affected by unanticipated or unscheduled downtime<COMMA> for any reason<COMMA> but that the Company shall have no liability for any damage or loss caused as a result of such downtime.<CR><CR><b>NO WARRANTIES<COLN></b> You agree that your use of the Software is at your sole and exclusive risk and that the Software is provided on ''As Is'' basis. The Company hereby expressly disclaims any and all express or implied warranties of any kind<COMMA> including<COMMA> but not limited to the implied warranty of fitness for a particular purpose and the implied warranty of merchantability. The Company makes no warranties that the Software will meet your needs or that access to the Software will be uninterrupted or error-free. The Company also makes no warranties as to the reliability or accuracy of any information contained within the Software. You agree that any damage that may occur to you<COMMA> through your computer system<COMMA> or as a result of loss of your data from your use of the Software is your sole responsibility and that the Company is not liable for any such damage or loss.<CR><CR><b>LIMITATION ON LIABILITY<COLN></b> The Company is not liable for any damages that may occur to you as a result of your use of the Software<COMMA> to the fullest extent permitted by law. The maximum liability of the Company arising from or relating to this Agreement is limited to the greater of one hundred ($100) US Dollars or the amount you paid to the Company in the last six (6) months. This section applies to any and all claims by you<COMMA> including<COMMA> but not limited to<COMMA> lost profits or revenues<COMMA> consequential or punitive damages<COMMA> negligence<COMMA> strict liability<COMMA> fraud<COMMA> or torts of any kind.<CR><CR><b>DISPUTE RESOLUTION <u> </u>GOVERNING LAW<COLN></b> All disputes will be resolved as provided for in the Terms <u> </u>Conditions or Terms of Service. Should Company not have a live version of any Terms document or any other provisions in any user-facing document covering dispute resolution and governing law<COMMA> the laws of Florida shall govern any matter or dispute relating to or arising from this EULA or the Company's relationship with End User.<CR><CR><b>ASSIGNMENT<COLN></b> This Agreement<COMMA> or the rights granted hereunder<COMMA> may not be assigned<COMMA> sold<COMMA> leased or otherwise transferred in whole or part by you. Should this Agreement<COMMA> or the rights granted hereunder<COMMA> by assigned<COMMA> sold<COMMA> leased or otherwise transferred by the Company<COMMA> the rights and liabilities of the Company will bind and inure to any assignees<COMMA> administrators<COMMA> successors<COMMA> and executors.<CR><CR><b>HEADINGS FOR CONVENIENCE ONLY<COLN></b> Headings of parts and sub-parts under this Agreement are for convenience and organization<COMMA> only. Headings shall not affect the meaning of any provisions of this Agreement.<CR><CR><b>NO AGENCY<COMMA> PARTNERSHIP OR JOINT VENTURE<COLN></b> No agency<COMMA> partnership<COMMA> or joint venture has been created between the Parties as a result of this Agreement. No Party has any authority to bind the other to third parties.<CR><CR><b>FORCE MAJEURE<COLN></b> The Company is not liable for any failure to perform due to causes beyond its reasonable control including<COMMA> but not limited to<COMMA> acts of God<COMMA> acts of civil authorities<COMMA> acts of military authorities<COMMA> riots<COMMA> embargoes<COMMA> acts of nature and natural disasters<COMMA> and other acts which may be due to unforeseen circumstances.<CR><CR><b>ELECTRONIC COMMUNICATIONS PERMITTED<COLN></b> Electronic communications are permitted to both Parties under this Agreement<COMMA> including e-mail or fax. For any questions or concerns<COMMA> please email us at the following address<COLN> nimblejs@nimble-ide.com.
+    loginpolicy,info,TOOLTIP,
+    loginpolicy,info,ENABLED,true
+    loginpolicy,info,VISIBLE,true
+    loginpolicy,info,ZORDER,0
+    loginpolicy,info,FORECOLOR,&h5a5a5a
+    loginpolicy,info,BACKCOLOR,transparent
+    loginpolicy,info,FONTNAME,verdana<COMMA> geneva<COMMA> sans-serif
+    loginpolicy,info,FONTSIZE,14px
+    loginpolicy,info,FONTBOLD,false
+    loginpolicy,info,FONTITALIC,false
+    loginpolicy,info,FONTUNDERLINE,false
+    loginpolicy,info,FONTSTRIKETHRU,false
+    loginpolicy,info,INFO,
+    loginpolicy,info,PAGECOUNT,0
+    loginpolicy,info,DATABIND,
+    loginpolicy,info,BINDMAPPING,
+    loginpolicy,info,drag.x,1
+    loginpolicy,info,drag.y,1
+    loginpolicy,info,xdragrange,-1<SEMI> -1
+    loginpolicy,info,ydragrange,-1<SEMI> -1
+    loginpolicy,info,size.x,1
+    loginpolicy,info,size.y,1
+    loginpolicy,info,negadj,
+    loginpolicy,info,posadj,
+    loginpolicy,info,child,true
+    loginpolicy,info,displaymode,block
+    loginpolicy,info,TAG,~bind<COLN> false<LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>record<COLN> <LF>scaletype<COLN> false<LF>sizeable<COLN> false<LF>tag<COLN> <LF>theme<COLN> nimble-label<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> !!!!<LF>lock-height<COLN> !!!!<LF>lock-width<COLN> <LF>scale-cpl<COLN> 25<LF>~color<COLN> #5a5a5a<LF>cursor<COLN> <LF>display<COLN> table<LF>height<COLN> calc(100% - 140px)<LF>opacity<COLN> <LF>padding<COLN> 0px 0px<LF>visibility<COLN> visible<LF>background-color<COLN> transparent<LF>border-style<COLN> solid<LF>border-width<COLN> 0px<LF>font-family<COLN> verdana<COMMA> geneva<COMMA> sans-serif<LF>font-size<COLN> 14px<LF>font-style<COLN> normal<LF>font-weight<COLN> normal<LF>line-height<COLN> 20px<LF>pointer-events<COLN> inherit<LF>text-align<COLN> left<LF>text-decoration<COLN> <LF>vertical-align<COLN> <LF>caption.display<COLN> table-cell<LF>caption.position<COLN> relative<LF>caption.vertical-align<COLN> top<LF>caption.width<COLN> auto<LF>div.display<COLN> block<LF>div.margin<COLN> 0px 0px 35px 0px<LF>div.overflow-y<COLN> scroll<LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative
+    loginpolicy,info,LOCK,false
+    loginpolicy,info,events,change<COLN> <CR>menu<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousedown<COLN> <CR>mousewheel<COLN> <CR>click<COLN> <CR>longpress<COLN> <CR>mouseenter<COLN> <CR>dblclick<COLN> <CR>touchstart<COLN> <CR>touchmove<COLN> <CR>touchend<COLN>
+    loginpolicy,info,extend,{}
+loginpolicy,info,REFRESH, 
+loginpolicy,btnagree,TARGET,prvpage
+loginpolicy,btnagree,PARENTGROUP,~
+loginpolicy,btnagree,load,button|Close|0|0|150|45|1342394112|32
+    loginpolicy,btnagree,group,true
+    loginpolicy,btnagree,groupid,0
+    loginpolicy,btnagree,groupby,9999999999
+    loginpolicy,btnagree,widgetlock,false
+    loginpolicy,btnagree,iswidget,false
+    loginpolicy,btnagree,iscollection,false
+    loginpolicy,btnagree,collectname,
+    loginpolicy,btnagree,widgetname,
+    loginpolicy,btnagree,placeholder,
+    loginpolicy,btnagree,addedby,
+    loginpolicy,btnagree,DOCK,FFFF
+    loginpolicy,btnagree,PICTURE,media/img_missing.png
+    loginpolicy,btnagree,SIZE,150<PIP>45
+    loginpolicy,btnagree,JSON,{}
+    loginpolicy,btnagree,TEXT,Close
+    loginpolicy,btnagree,TOOLTIP,
+    loginpolicy,btnagree,ENABLED,true
+    loginpolicy,btnagree,VISIBLE,true
+    loginpolicy,btnagree,ZORDER,0
+    loginpolicy,btnagree,FORECOLOR,&hffffff
+    loginpolicy,btnagree,BACKCOLOR,&h224488
+    loginpolicy,btnagree,FONTNAME,verdana<COMMA> geneva<COMMA> sans-serif
+    loginpolicy,btnagree,FONTSIZE,14px
+    loginpolicy,btnagree,FONTBOLD,false
+    loginpolicy,btnagree,FONTITALIC,false
+    loginpolicy,btnagree,FONTUNDERLINE,false
+    loginpolicy,btnagree,FONTSTRIKETHRU,false
+    loginpolicy,btnagree,INFO,
+    loginpolicy,btnagree,PAGECOUNT,0
+    loginpolicy,btnagree,DATABIND,
+    loginpolicy,btnagree,BINDMAPPING,
+    loginpolicy,btnagree,drag.x,1
+    loginpolicy,btnagree,drag.y,1
+    loginpolicy,btnagree,xdragrange,-1<SEMI> -1
+    loginpolicy,btnagree,ydragrange,-1<SEMI> -1
+    loginpolicy,btnagree,size.x,1
+    loginpolicy,btnagree,size.y,1
+    loginpolicy,btnagree,negadj,
+    loginpolicy,btnagree,posadj,
+    loginpolicy,btnagree,child,true
+    loginpolicy,btnagree,displaymode,inline-block
+    loginpolicy,btnagree,TAG,~bind<COLN> false<LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>record<COLN> <LF>sizeable<COLN> false<LF>tag<COLN> <LF>theme<COLN> nimble-button<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> <LF>lock-height<COLN> <LF>lock-width<COLN> <LF>~background<COLN> linear-gradient(90deg<COMMA> rgba(1<COMMA>64<COMMA>89<COMMA>1) 0%<COMMA> rgba(60<COMMA>160<COMMA>210<COMMA>1) 100%);<LF>border<COLN> 0.5px solid #000<LF>color<COLN> #ffffff<LF>cursor<COLN> <LF>display<COLN> <LF>opacity<COLN> <LF>padding<COLN> 2px 7.5px<LF>visibility<COLN> visible<LF>background-color<COLN> #224488<LF>border-color<COLN> #bbb<LF>border-radius<COLN> 30px<LF>box-shadow<COLN> rgba(80<COMMA>80<COMMA>80<COMMA>.40) 3px 8px 18px 0px<LF>font-family<COLN> verdana<COMMA> geneva<COMMA> sans-serif<LF>font-size<COLN> 14px<LF>font-style<COLN> normal<LF>font-weight<COLN> normal<LF>max-width<COLN> 150px<LF>pointer-events<COLN> inherit<LF>text-align<COLN> <LF>text-decoration<COLN> <LF>vertical-align<COLN><LF>caption.position<COLN> absolute<LF>caption.text-align<COLN> center<LF>caption.top<COLN> calc(50% - 0.6em)<LF>caption.width<COLN> calc(100% - 15px)<LF>div.display<COLN> inline-block<LF>div.margin<COLN> -10px 5px -5px 5px<LF>div.padding<COLN> 0px 0px 0px 0px<LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative
+    loginpolicy,btnagree,LOCK,false
+    loginpolicy,btnagree,events,menu<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousedown<COLN> <CR>mousewheel<COLN> <CR>click<COLN> login.policy.agree.click<CR>longpress<COLN> <CR>mouseenter<COLN> <CR>dblclick<COLN> <CR>gotfocus<COLN> <CR>lostfocus<COLN> <CR>touchstart<COLN> <CR>touchmove<COLN> <CR>touchend<COLN>
+    loginpolicy,btnagree,extend,{}
+loginpolicy,btnagree,REFRESH, 
+loginpolicy,icnback,TARGET,~
+loginpolicy,icnback,PARENTGROUP,~
+loginpolicy,icnback,load,icon|media/img_missing.png|341|30|32|32|1342373901|0
+    loginpolicy,icnback,group,true
+    loginpolicy,icnback,groupid,0400
+    loginpolicy,icnback,groupby,9999999999
+    loginpolicy,icnback,widgetlock,false
+    loginpolicy,icnback,iswidget,false
+    loginpolicy,icnback,iscollection,false
+    loginpolicy,icnback,collectname,
+    loginpolicy,icnback,widgetname,
+    loginpolicy,icnback,placeholder,
+    loginpolicy,icnback,addedby,
+    loginpolicy,icnback,DOCK,FFFF
+    loginpolicy,icnback,PICTURE,media/img_missing.png
+    loginpolicy,icnback,SIZE,32<PIP>32
+    loginpolicy,icnback,JSON,{}
+    loginpolicy,icnback,TEXT,
+    loginpolicy,icnback,TOOLTIP,
+    loginpolicy,icnback,ENABLED,true
+    loginpolicy,icnback,VISIBLE,true
+    loginpolicy,icnback,ZORDER,0
+    loginpolicy,icnback,FORECOLOR,&hadd8e6
+    loginpolicy,icnback,BACKCOLOR,transparent
+    loginpolicy,icnback,FONTNAME,verdana<COMMA> geneva<COMMA> sans-serif
+    loginpolicy,icnback,FONTSIZE,32px
+    loginpolicy,icnback,FONTBOLD,false
+    loginpolicy,icnback,FONTITALIC,false
+    loginpolicy,icnback,FONTUNDERLINE,false
+    loginpolicy,icnback,FONTSTRIKETHRU,false
+    loginpolicy,icnback,INFO,icon
+    loginpolicy,icnback,PAGECOUNT,0
+    loginpolicy,icnback,DATABIND,
+    loginpolicy,icnback,BINDMAPPING,
+    loginpolicy,icnback,drag.x,1
+    loginpolicy,icnback,drag.y,1
+    loginpolicy,icnback,xdragrange,-1<SEMI> -1
+    loginpolicy,icnback,ydragrange,-1<SEMI> -1
+    loginpolicy,icnback,size.x,1
+    loginpolicy,icnback,size.y,1
+    loginpolicy,icnback,negadj,
+    loginpolicy,icnback,posadj,
+    loginpolicy,icnback,child,false
+    loginpolicy,icnback,displaymode,absolute
+    loginpolicy,icnback,TAG,~bind<COLN> false<LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>record<COLN> <LF>sizeable<COLN> false<LF>tag<COLN> <LF>theme<COLN> nimble-icon<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> <LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> <LF>lock-height<COLN> <LF>lock-left<COLN> !!!!<LF>lock-width<COLN> <LF>image.class<COLN> fa fa-arrow-circle-left<LF>image.title<COLN> arrow-circle-left~color<COLN> #add8e6<LF>cursor<COLN> <LF>display<COLN> <LF>float<COLN> <LF>opacity<COLN> <LF>visibility<COLN> visible<LF>background-color<COLN> transparent<LF>border-style<COLN> solid<LF>border-width<COLN> 0px<LF>font-family<COLN> verdana<COMMA> geneva<COMMA> sans-serif<LF>font-size<COLN> 32px<LF>font-style<COLN> normal<LF>font-weight<COLN> normal<LF>pointer-events<COLN> inherit<LF>text-align<COLN> center<LF>text-decoration<COLN> <LF>vertical-align<COLN><LF>caption.position<COLN> relative<LF>div.display<COLN> inline-block<LF>div.left<COLN> calc(50% - 290px)<LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> absolute<LF>div.top<COLN> 30px<LF>image.color<COLN>  lightblue<LF>image.display<COLN> block<LF>image.font-size<COLN> 32px
+    loginpolicy,icnback,LOCK,false
+    loginpolicy,icnback,events,click<COLN> login.policy.back.click<CR>dblclick<COLN> <CR>keydown<COLN> <CR>keypress<COLN> <CR>keyup<COLN> <CR>longpress<COLN> <CR>lostfocus<COLN> <CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>setfocus<COLN> <CR>touchend<COLN><CR>touchmove<COLN> <CR>touchstart<COLN>
+    loginpolicy,icnback,extend,{}
+loginpolicy,icnback,REFRESH, 
+loginpolicy,,SETVIEW,
+loginpolicy,,HIDE,
+loginpolicy,,REFRESH,true
